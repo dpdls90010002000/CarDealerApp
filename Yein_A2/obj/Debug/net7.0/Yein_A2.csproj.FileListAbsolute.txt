@@ -1,0 +1,15 @@
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.csproj.AssemblyReference.cache
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.AssemblyInfoInputs.cache
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.AssemblyInfo.cs
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.csproj.CoreCompileInputs.cache
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/bin/Debug/net7.0/Yein_A2
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/bin/Debug/net7.0/Yein_A2.deps.json
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/bin/Debug/net7.0/Yein_A2.runtimeconfig.json
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/bin/Debug/net7.0/Yein_A2.dll
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/bin/Debug/net7.0/Yein_A2.pdb
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.dll
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/refint/Yein_A2.dll
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.pdb
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/Yein_A2.genruntimeconfig.cache
+/Users/anyein/Desktop/Programming 2/Yein_A2/Yein_A2/obj/Debug/net7.0/ref/Yein_A2.dll
